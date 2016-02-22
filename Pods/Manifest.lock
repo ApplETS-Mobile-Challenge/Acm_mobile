@@ -1,0 +1,81 @@
+PODS:
+  - AFNetworking (3.0.3):
+    - AFNetworking/NSURLSession (= 3.0.3)
+    - AFNetworking/Reachability (= 3.0.3)
+    - AFNetworking/Security (= 3.0.3)
+    - AFNetworking/Serialization (= 3.0.3)
+    - AFNetworking/UIKit (= 3.0.3)
+  - AFNetworking/NSURLSession (3.0.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.3)
+  - AFNetworking/Security (3.0.3)
+  - AFNetworking/Serialization (3.0.3)
+  - AFNetworking/UIKit (3.0.3):
+    - AFNetworking/NSURLSession
+  - AWSCore (2.3.2)
+  - AWSS3 (2.3.2):
+    - AWSCore (= 2.3.2)
+  - Bolts (1.6.0):
+    - Bolts/AppLinks (= 1.6.0)
+    - Bolts/Tasks (= 1.6.0)
+  - Bolts/AppLinks (1.6.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.6.0)
+  - CHTCollectionViewWaterfallLayout (0.9.2)
+  - FBSDKCoreKit (4.10.0):
+    - Bolts (~> 1.5)
+  - FBSDKLoginKit (4.10.0):
+    - FBSDKCoreKit
+  - iCarousel (1.8.2)
+  - iOS-blur (0.0.5)
+  - JGActionSheet (1.0.5)
+  - LTNavigationBar (2.1.1)
+  - NSDate-Time-Ago (1.0.1)
+  - RadioButton (1.0)
+  - RDVTabBarController (1.1.9)
+  - STTweetLabel (3.1.21)
+  - TPKeyboardAvoiding (1.2.11)
+  - TTTAttributedLabel (1.13.4)
+  - UITextView+Placeholder (1.1.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - AFNetworking (~> 3.0)
+  - AWSS3
+  - CHTCollectionViewWaterfallLayout
+  - FBSDKLoginKit
+  - iCarousel
+  - iOS-blur
+  - JGActionSheet
+  - LTNavigationBar
+  - NSDate-Time-Ago
+  - RadioButton
+  - RDVTabBarController
+  - STTweetLabel
+  - TPKeyboardAvoiding
+  - TTTAttributedLabel
+  - UITextView+Placeholder
+
+SPEC CHECKSUMS:
+  AFNetworking: ba06eb9f27de596808c0acc09e1c920cb1d17ab4
+  AWSCore: c2f69975fd2caf38a10736961de28a0105cdb00c
+  AWSS3: 9ac201e7a4ad8be0b68348c77acfd100027b97af
+  Bolts: f52a250053bb517ca874523c3913776359ab3def
+  CHTCollectionViewWaterfallLayout: 43232febcb3e4d3985cd758718cbe499b21b822f
+  FBSDKCoreKit: 13bec8373fb3af94d44daf2aa1e0958687897fbd
+  FBSDKLoginKit: d3d4a2e9d31954deb00bfea964167a05ca1ea976
+  iCarousel: 67c8a43da5a46795b56aadfc96cd36a16f6149b2
+  iOS-blur: 8e4a4a2202b881e940869eca0c957808cbdf0a19
+  JGActionSheet: 2cfca820b57a11ec4b4a5655d45ee599fbeddc05
+  LTNavigationBar: b1c15fdcc32453d84f8b9fc774fff611c184dfbb
+  NSDate-Time-Ago: e9de167d0659ebe465c273e833e7b582f061fc41
+  RadioButton: 7ef053baf6ff0e7f9e777016c28e9ba4e330edba
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  STTweetLabel: 842bc86cdf13288414440405757478bd4820e1be
+  TPKeyboardAvoiding: e5ce146b313de063957bfa75a13f1e9b0ff18ab7
+  TTTAttributedLabel: 0a2ac7b2dd726d32a070dafb01446026b11e624f
+  UITextView+Placeholder: a6fc3e0378f3870036ec562a7537cbf6dbae4bf6
+
+COCOAPODS: 0.39.0
